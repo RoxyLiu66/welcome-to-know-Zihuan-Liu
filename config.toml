@@ -30,7 +30,6 @@ enableEmoji = true
 [params]
   orgName = "UBC"
   orgLocal = "Canada BC"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "project", "talk"]
