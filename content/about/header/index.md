@@ -8,4 +8,4 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I hold master of data science,and craving for a job :ca:
+I’m in the final few months of my Master of Data Science at UBC. I hope I can successfully find a job in Canada, because I love my friends here, as well as the flowers, plants, and trees—and of course, the red wine.
