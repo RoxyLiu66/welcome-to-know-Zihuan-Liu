@@ -1,6 +1,6 @@
 ---
 title: "A campfire in cabin"
-subtitle: "hign talk"
+subtitle: "smoke too much"
 excerpt:
 date: 2026-03-12
 date_end: "2026-03-15"
@@ -20,4 +20,4 @@ links:
 
 {{< hi >}}
 
-I'm really excited to give this talk! Stay tuned for video and slides.
+
